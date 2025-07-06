@@ -1,0 +1,201 @@
+OrderID,OrderDate,City,Restaurant,Cuisine,OrderValue,DiscountApplied,FinalAmount,DeliveryTime(min),CustomerRating,PartnerCommission
+1,2025-06-19,Hyderabad,SpiceHub,North Indian,1175.54,101.02,1074.52,73,4.1,0.1
+2,2025-07-06,Mumbai,VeggieCrush,Chinese,800.82,37.69,763.13,68,3.9,0.1
+3,2025-06-12,Bangalore,SpiceHub,Chinese,572.06,36.49,535.57,27,3.4,0.1
+4,2025-06-28,Hyderabad,TandooriExpress,Continental,857.14,132.85,724.29,29,3.0,0.25
+5,2025-06-16,Hyderabad,PizzaCorner,Chinese,946.51,36.39,910.12,86,4.2,0.15
+6,2025-07-03,Mumbai,TandooriExpress,North Indian,875.01,94.28,780.73,79,4.0,0.25
+7,2025-06-16,Bangalore,TandooriExpress,Continental,256.81,57.67,199.14,28,2.7,0.15
+8,2025-06-23,Pune,TandooriExpress,Continental,867.76,136.89,730.87,45,3.3,0.15
+9,2025-07-02,Hyderabad,GreenBite,South Indian,262.85,7.32,255.53,55,4.5,0.25
+10,2025-06-18,Bangalore,SpiceHub,South Indian,772.45,87.71,684.74,56,3.5,0.15
+11,2025-06-10,Hyderabad,SpiceHub,Italian,1022.91,288.03,734.88,49,2.8,0.1
+12,2025-06-21,Hyderabad,VeggieCrush,Chinese,416.59,0.93,415.66,31,2.6,0.2
+13,2025-06-22,Pune,GreenBite,Chinese,622.57,184.05,438.52,61,4.9,0.15
+14,2025-06-18,Pune,VeggieCrush,North Indian,748.95,156.75,592.2,32,4.0,0.1
+15,2025-07-03,Pune,VeggieCrush,North Indian,544.32,143.51,400.81,82,3.4,0.1
+16,2025-06-18,Hyderabad,VeggieCrush,South Indian,211.29,53.34,157.95,79,4.7,0.25
+17,2025-06-21,Pune,VeggieCrush,Italian,976.02,259.25,716.77,78,4.8,0.15
+18,2025-06-07,Pune,PizzaCorner,Italian,508.86,118.58,390.28,71,4.7,0.15
+19,2025-06-25,Delhi,SpiceHub,Italian,978.5,254.88,723.62,43,3.6,0.1
+20,2025-06-06,Mumbai,TandooriExpress,Continental,1087.08,276.05,811.03,80,3.0,0.25
+21,2025-06-20,Pune,VeggieCrush,Continental,624.89,84.41,540.48,37,4.3,0.1
+22,2025-06-12,Pune,PizzaCorner,North Indian,617.35,90.71,526.64,84,4.7,0.25
+23,2025-06-06,Hyderabad,GreenBite,Continental,1175.15,313.45,861.7,24,2.5,0.1
+24,2025-07-03,Bangalore,TandooriExpress,Chinese,470.4,64.58,405.82,57,3.9,0.1
+25,2025-06-09,Pune,VeggieCrush,Continental,317.15,51.53,265.62,50,4.9,0.25
+26,2025-07-01,Bangalore,TandooriExpress,South Indian,1106.97,104.71,1002.26,37,4.1,0.1
+27,2025-06-22,Mumbai,SpiceHub,South Indian,562.97,114.86,448.11,81,3.9,0.15
+28,2025-06-11,Mumbai,VeggieCrush,South Indian,474.85,21.69,453.16,21,3.7,0.2
+29,2025-06-15,Pune,PizzaCorner,Chinese,1199.79,273.16,926.63,40,3.5,0.25
+30,2025-06-21,Mumbai,PizzaCorner,Continental,1037.07,64.02,973.05,31,3.7,0.15
+31,2025-07-04,Bangalore,TandooriExpress,South Indian,794.29,41.19,753.1,36,4.1,0.1
+32,2025-06-14,Delhi,GreenBite,Chinese,999.94,124.63,875.31,41,4.3,0.25
+33,2025-06-07,Pune,VeggieCrush,Continental,1196.37,165.58,1030.79,67,4.3,0.15
+34,2025-06-12,Mumbai,TandooriExpress,South Indian,209.46,40.9,168.56,36,3.9,0.2
+35,2025-06-12,Delhi,VeggieCrush,Chinese,943.9,205.28,738.62,63,3.1,0.15
+36,2025-06-07,Hyderabad,VeggieCrush,Italian,1137.82,92.42,1045.4,21,3.4,0.15
+37,2025-06-19,Mumbai,PizzaCorner,North Indian,520.7,90.08,430.62,34,2.9,0.25
+38,2025-06-08,Pune,VeggieCrush,Chinese,469.18,70.75,398.43,73,4.8,0.2
+39,2025-06-25,Pune,GreenBite,Italian,957.87,121.22,836.65,58,4.8,0.1
+40,2025-07-04,Pune,TandooriExpress,Chinese,1149.18,213.08,936.1,39,3.9,0.2
+41,2025-06-25,Mumbai,VeggieCrush,Italian,847.15,29.04,818.11,39,4.5,0.25
+42,2025-06-09,Delhi,PizzaCorner,Chinese,723.9,146.22,577.68,83,4.7,0.15
+43,2025-06-27,Pune,PizzaCorner,North Indian,775.05,67.8,707.25,49,3.1,0.1
+44,2025-06-19,Hyderabad,VeggieCrush,North Indian,931.43,19.99,911.44,28,3.7,0.15
+45,2025-06-21,Mumbai,PizzaCorner,South Indian,431.02,60.35,370.67,50,3.8,0.25
+46,2025-06-17,Mumbai,PizzaCorner,Continental,1012.5,69.82,942.68,38,3.0,0.2
+47,2025-06-19,Delhi,GreenBite,Chinese,952.84,111.94,840.9,22,3.1,0.15
+48,2025-06-17,Hyderabad,PizzaCorner,South Indian,308.26,33.86,274.4,22,2.7,0.2
+49,2025-06-24,Delhi,GreenBite,Continental,614.87,59.51,555.36,52,3.6,0.1
+50,2025-06-26,Delhi,TandooriExpress,Continental,352.92,82.69,270.23,54,3.3,0.25
+51,2025-06-12,Pune,VeggieCrush,South Indian,821.98,95.79,726.19,34,4.0,0.15
+52,2025-06-06,Mumbai,TandooriExpress,Chinese,1040.14,240.69,799.45,65,4.9,0.15
+53,2025-06-10,Pune,GreenBite,South Indian,736.57,128.55,608.02,74,4.0,0.1
+54,2025-07-03,Bangalore,SpiceHub,Continental,272.57,26.83,245.74,67,2.9,0.15
+55,2025-06-28,Bangalore,VeggieCrush,Italian,624.82,143.35,481.47,43,2.5,0.2
+56,2025-07-01,Delhi,TandooriExpress,North Indian,998.46,45.89,952.57,46,3.0,0.15
+57,2025-07-02,Mumbai,VeggieCrush,Continental,1080.99,162.98,918.01,78,3.5,0.25
+58,2025-06-26,Delhi,GreenBite,Chinese,1073.51,64.41,1009.1,63,3.2,0.2
+59,2025-06-21,Mumbai,TandooriExpress,Italian,248.01,26.36,221.65,60,4.1,0.25
+60,2025-06-13,Pune,SpiceHub,South Indian,1166.38,267.6,898.78,88,2.9,0.15
+61,2025-06-16,Hyderabad,TandooriExpress,Chinese,359.25,82.86,276.39,57,4.9,0.1
+62,2025-06-30,Pune,VeggieCrush,North Indian,1175.78,30.22,1145.56,50,4.6,0.1
+63,2025-06-07,Bangalore,GreenBite,North Indian,718.69,101.83,616.86,41,3.8,0.25
+64,2025-06-13,Bangalore,PizzaCorner,Continental,682.71,78.64,604.07,50,4.8,0.2
+65,2025-07-04,Pune,PizzaCorner,Italian,663.46,63.96,599.5,52,4.6,0.25
+66,2025-06-25,Bangalore,TandooriExpress,North Indian,583.09,74.81,508.28,48,3.0,0.15
+67,2025-06-12,Mumbai,VeggieCrush,South Indian,497.01,61.11,435.9,81,4.8,0.15
+68,2025-06-22,Delhi,SpiceHub,North Indian,208.59,35.81,172.78,57,4.0,0.1
+69,2025-06-09,Pune,GreenBite,South Indian,973.26,15.94,957.32,63,4.2,0.2
+70,2025-07-04,Mumbai,PizzaCorner,Continental,884.53,219.47,665.06,71,2.9,0.25
+71,2025-06-26,Hyderabad,VeggieCrush,Chinese,931.81,146.35,785.46,78,2.9,0.2
+72,2025-06-16,Pune,SpiceHub,Italian,314.8,1.31,313.49,27,3.1,0.2
+73,2025-06-09,Hyderabad,SpiceHub,Chinese,762.89,217.31,545.58,62,4.6,0.2
+74,2025-06-08,Delhi,VeggieCrush,South Indian,835.23,100.45,734.78,43,3.6,0.15
+75,2025-06-26,Pune,SpiceHub,Italian,329.46,85.99,243.47,46,3.5,0.1
+76,2025-06-30,Pune,VeggieCrush,South Indian,205.39,31.89,173.5,37,4.9,0.1
+77,2025-06-13,Pune,VeggieCrush,North Indian,1162.12,340.22,821.9,80,4.0,0.1
+78,2025-06-13,Hyderabad,TandooriExpress,Chinese,549.69,101.01,448.68,57,4.1,0.25
+79,2025-06-19,Bangalore,TandooriExpress,Chinese,273.61,38.59,235.02,44,3.1,0.25
+80,2025-06-27,Delhi,GreenBite,Italian,871.42,192.21,679.21,75,3.9,0.1
+81,2025-06-24,Delhi,PizzaCorner,Continental,876.06,196.14,679.92,38,2.6,0.2
+82,2025-06-24,Bangalore,SpiceHub,Continental,408.96,21.85,387.11,47,4.1,0.25
+83,2025-06-15,Delhi,SpiceHub,Continental,592.34,107.1,485.24,77,2.7,0.1
+84,2025-06-19,Hyderabad,GreenBite,Continental,1119.46,288.88,830.58,60,3.5,0.1
+85,2025-06-18,Delhi,GreenBite,Chinese,842.94,152.05,690.89,73,3.2,0.25
+86,2025-07-03,Hyderabad,PizzaCorner,North Indian,952.56,111.19,841.37,61,4.0,0.2
+87,2025-06-11,Mumbai,SpiceHub,Italian,1054.14,131.02,923.12,60,3.4,0.15
+88,2025-06-11,Bangalore,VeggieCrush,South Indian,1024.33,212.64,811.69,46,3.2,0.2
+89,2025-06-07,Hyderabad,PizzaCorner,Continental,576.41,138.17,438.24,34,5.0,0.15
+90,2025-07-01,Delhi,TandooriExpress,South Indian,996.98,198.4,798.58,58,2.9,0.15
+91,2025-07-06,Hyderabad,SpiceHub,South Indian,532.71,28.09,504.62,41,2.7,0.1
+92,2025-06-21,Mumbai,GreenBite,South Indian,938.87,180.34,758.53,53,4.8,0.2
+93,2025-06-06,Pune,VeggieCrush,Continental,561.08,79.87,481.21,88,2.6,0.25
+94,2025-06-19,Mumbai,GreenBite,Continental,730.63,210.21,520.42,56,3.4,0.25
+95,2025-06-11,Pune,VeggieCrush,North Indian,675.01,37.86,637.15,80,5.0,0.15
+96,2025-06-22,Mumbai,SpiceHub,Italian,200.52,25.01,175.51,71,3.8,0.25
+97,2025-06-22,Hyderabad,VeggieCrush,Chinese,866.35,232.27,634.08,36,4.8,0.25
+98,2025-06-22,Mumbai,SpiceHub,North Indian,929.01,151.37,777.64,75,4.6,0.25
+99,2025-06-20,Mumbai,GreenBite,North Indian,572.03,157.5,414.53,40,2.7,0.1
+100,2025-06-28,Pune,VeggieCrush,Chinese,327.36,69.84,257.52,89,2.9,0.25
+101,2025-06-18,Bangalore,TandooriExpress,South Indian,599.5,138.89,460.61,56,5.0,0.2
+102,2025-06-07,Mumbai,PizzaCorner,Italian,760.23,114.71,645.52,67,4.4,0.2
+103,2025-06-10,Bangalore,PizzaCorner,Continental,723.8,144.39,579.41,31,2.5,0.15
+104,2025-06-20,Mumbai,VeggieCrush,Chinese,453.83,74.52,379.31,73,3.0,0.25
+105,2025-07-06,Delhi,PizzaCorner,Chinese,442.11,56.51,385.6,40,3.7,0.25
+106,2025-07-01,Mumbai,GreenBite,North Indian,1180.43,310.98,869.45,69,3.3,0.1
+107,2025-06-15,Bangalore,PizzaCorner,North Indian,1026.9,214.3,812.6,89,2.7,0.2
+108,2025-06-20,Delhi,TandooriExpress,North Indian,290.04,27.89,262.15,21,3.6,0.2
+109,2025-06-14,Pune,PizzaCorner,North Indian,937.1,172.65,764.45,40,4.1,0.2
+110,2025-07-02,Mumbai,GreenBite,Italian,293.36,10.29,283.07,43,4.2,0.1
+111,2025-06-07,Pune,VeggieCrush,North Indian,982.01,34.34,947.67,44,4.8,0.15
+112,2025-06-20,Hyderabad,TandooriExpress,North Indian,973.64,192.37,781.27,30,2.8,0.2
+113,2025-06-30,Mumbai,PizzaCorner,North Indian,322.59,23.52,299.07,43,4.2,0.1
+114,2025-06-18,Hyderabad,SpiceHub,North Indian,920.74,98.83,821.91,67,4.1,0.1
+115,2025-06-12,Hyderabad,GreenBite,Chinese,1162.49,273.34,889.15,45,4.6,0.25
+116,2025-06-25,Bangalore,GreenBite,South Indian,406.46,6.59,399.87,61,4.6,0.25
+117,2025-06-18,Mumbai,PizzaCorner,Chinese,740.31,67.89,672.42,45,3.2,0.25
+118,2025-06-08,Hyderabad,TandooriExpress,North Indian,298.89,26.6,272.29,49,3.9,0.2
+119,2025-06-10,Delhi,SpiceHub,North Indian,314.36,72.98,241.38,61,2.8,0.15
+120,2025-07-02,Mumbai,GreenBite,Italian,200.61,22.25,178.36,53,3.2,0.25
+121,2025-06-23,Pune,PizzaCorner,Chinese,260.28,41.78,218.5,74,4.5,0.15
+122,2025-06-23,Delhi,GreenBite,Italian,756.79,61.96,694.83,34,4.1,0.25
+123,2025-06-11,Hyderabad,TandooriExpress,South Indian,452.43,92.85,359.58,33,4.8,0.1
+124,2025-06-26,Pune,GreenBite,Chinese,889.17,158.77,730.4,54,4.1,0.1
+125,2025-06-09,Bangalore,TandooriExpress,Chinese,684.07,161.48,522.59,83,3.3,0.1
+126,2025-06-20,Bangalore,SpiceHub,Continental,1183.75,14.05,1169.7,48,4.8,0.25
+127,2025-06-08,Bangalore,GreenBite,North Indian,985.66,271.85,713.81,48,4.5,0.25
+128,2025-06-23,Pune,VeggieCrush,Italian,751.89,0.97,750.92,88,4.0,0.2
+129,2025-06-28,Pune,PizzaCorner,Chinese,633.47,32.14,601.33,31,4.7,0.1
+130,2025-07-05,Delhi,SpiceHub,North Indian,941.44,125.62,815.82,57,4.9,0.15
+131,2025-06-11,Bangalore,PizzaCorner,Italian,240.17,46.6,193.57,26,4.8,0.15
+132,2025-07-02,Bangalore,TandooriExpress,Italian,962.26,38.16,924.1,75,3.7,0.1
+133,2025-06-17,Bangalore,SpiceHub,North Indian,619.7,15.61,604.09,39,4.8,0.1
+134,2025-06-06,Pune,PizzaCorner,Chinese,528.37,28.31,500.06,23,3.7,0.1
+135,2025-06-21,Hyderabad,SpiceHub,South Indian,363.76,103.33,260.43,54,2.6,0.2
+136,2025-06-29,Delhi,PizzaCorner,North Indian,346.05,83.91,262.14,68,3.5,0.25
+137,2025-06-07,Delhi,GreenBite,North Indian,898.01,142.27,755.74,68,3.7,0.2
+138,2025-06-11,Pune,GreenBite,South Indian,1135.56,67.98,1067.58,54,3.7,0.25
+139,2025-06-19,Bangalore,GreenBite,Continental,569.1,167.2,401.9,21,3.4,0.25
+140,2025-06-16,Pune,SpiceHub,Continental,831.29,133.46,697.83,57,4.8,0.1
+141,2025-06-30,Bangalore,VeggieCrush,South Indian,230.45,2.23,228.22,32,3.2,0.25
+142,2025-06-17,Mumbai,PizzaCorner,North Indian,242.9,24.09,218.81,63,3.5,0.25
+143,2025-06-19,Mumbai,PizzaCorner,North Indian,748.62,196.69,551.93,82,4.8,0.15
+144,2025-06-08,Delhi,SpiceHub,Italian,984.55,201.86,782.69,49,4.5,0.15
+145,2025-07-02,Bangalore,SpiceHub,Italian,336.46,72.65,263.81,84,3.9,0.1
+146,2025-06-12,Pune,PizzaCorner,South Indian,939.09,271.97,667.12,23,4.1,0.1
+147,2025-06-11,Pune,PizzaCorner,Chinese,448.4,51.77,396.63,46,3.3,0.2
+148,2025-06-28,Delhi,SpiceHub,Continental,909.63,99.71,809.92,56,3.8,0.2
+149,2025-06-13,Pune,SpiceHub,North Indian,1187.95,77.11,1110.84,63,3.6,0.25
+150,2025-06-09,Delhi,PizzaCorner,Italian,617.21,10.69,606.52,67,4.8,0.15
+151,2025-06-23,Mumbai,VeggieCrush,Continental,583.19,28.25,554.94,68,5.0,0.25
+152,2025-06-08,Delhi,TandooriExpress,South Indian,913.62,57.8,855.82,77,4.1,0.1
+153,2025-07-04,Mumbai,TandooriExpress,Continental,1017.91,248.19,769.72,31,3.3,0.1
+154,2025-06-09,Pune,PizzaCorner,Continental,620.71,18.41,602.3,61,4.9,0.2
+155,2025-06-26,Mumbai,SpiceHub,Italian,334.41,55.71,278.7,73,2.9,0.25
+156,2025-06-08,Pune,GreenBite,Continental,368.23,70.99,297.24,43,4.8,0.2
+157,2025-06-08,Mumbai,TandooriExpress,South Indian,978.8,252.64,726.16,74,4.6,0.15
+158,2025-07-02,Mumbai,SpiceHub,Italian,1065.33,156.21,909.12,30,4.7,0.15
+159,2025-06-24,Mumbai,SpiceHub,Continental,823.37,58.43,764.94,21,4.8,0.1
+160,2025-06-09,Mumbai,TandooriExpress,South Indian,881.84,259.11,622.73,62,3.8,0.1
+161,2025-06-13,Bangalore,GreenBite,Chinese,432.16,85.16,347.0,45,3.6,0.25
+162,2025-06-18,Delhi,TandooriExpress,Continental,795.39,102.4,692.99,86,2.8,0.25
+163,2025-06-22,Hyderabad,TandooriExpress,South Indian,255.36,60.83,194.53,61,3.5,0.15
+164,2025-06-11,Bangalore,GreenBite,Continental,920.61,52.61,868.0,64,3.5,0.25
+165,2025-06-24,Pune,GreenBite,North Indian,224.63,16.2,208.43,25,3.2,0.1
+166,2025-06-18,Hyderabad,PizzaCorner,Chinese,841.74,156.17,685.57,65,4.3,0.2
+167,2025-06-10,Pune,VeggieCrush,Chinese,371.17,81.48,289.69,83,3.1,0.15
+168,2025-06-12,Mumbai,TandooriExpress,Italian,397.12,36.45,360.67,66,3.5,0.1
+169,2025-06-25,Mumbai,PizzaCorner,Chinese,905.8,176.3,729.5,31,2.9,0.25
+170,2025-06-07,Bangalore,PizzaCorner,Continental,286.99,9.68,277.31,86,4.4,0.25
+171,2025-07-04,Mumbai,VeggieCrush,North Indian,214.31,7.32,206.99,59,3.6,0.1
+172,2025-06-22,Bangalore,GreenBite,Italian,454.27,42.89,411.38,23,4.1,0.25
+173,2025-07-03,Hyderabad,SpiceHub,Chinese,705.7,117.92,587.78,58,4.2,0.1
+174,2025-06-21,Mumbai,TandooriExpress,Italian,718.92,106.17,612.75,35,4.2,0.15
+175,2025-07-05,Delhi,SpiceHub,Continental,1045.58,156.57,889.01,73,3.9,0.25
+176,2025-06-25,Delhi,TandooriExpress,North Indian,626.24,180.59,445.65,52,4.9,0.1
+177,2025-06-06,Mumbai,GreenBite,South Indian,1058.21,244.28,813.93,39,3.1,0.15
+178,2025-06-19,Delhi,VeggieCrush,Italian,306.79,31.92,274.87,67,4.3,0.25
+179,2025-06-19,Bangalore,TandooriExpress,Continental,989.53,119.39,870.14,27,2.8,0.25
+180,2025-06-21,Delhi,TandooriExpress,North Indian,653.55,148.24,505.31,44,4.1,0.15
+181,2025-06-17,Mumbai,SpiceHub,Chinese,630.06,75.64,554.42,30,4.5,0.2
+182,2025-06-08,Mumbai,PizzaCorner,Chinese,1101.76,153.39,948.37,64,2.6,0.25
+183,2025-07-05,Pune,GreenBite,Italian,511.71,142.82,368.89,63,3.9,0.25
+184,2025-07-06,Delhi,PizzaCorner,Chinese,1005.84,139.35,866.49,27,3.4,0.25
+185,2025-06-18,Mumbai,PizzaCorner,Chinese,818.31,105.34,712.97,90,3.0,0.25
+186,2025-06-14,Pune,GreenBite,South Indian,356.6,19.72,336.88,82,4.6,0.2
+187,2025-07-02,Delhi,SpiceHub,Italian,862.99,81.09,781.9,79,4.3,0.15
+188,2025-06-11,Pune,TandooriExpress,South Indian,626.86,110.87,515.99,69,3.5,0.25
+189,2025-07-02,Mumbai,TandooriExpress,North Indian,868.27,165.8,702.47,59,2.6,0.25
+190,2025-06-21,Delhi,GreenBite,South Indian,386.35,62.67,323.68,57,2.9,0.1
+191,2025-06-16,Mumbai,VeggieCrush,Italian,291.89,12.77,279.12,54,3.6,0.2
+192,2025-06-24,Pune,PizzaCorner,South Indian,205.71,42.4,163.31,66,4.3,0.1
+193,2025-06-18,Pune,TandooriExpress,Chinese,283.62,45.94,237.68,41,5.0,0.15
+194,2025-06-27,Pune,GreenBite,North Indian,795.5,186.46,609.04,22,3.9,0.2
+195,2025-06-13,Pune,SpiceHub,South Indian,1153.4,306.46,846.94,68,2.7,0.1
+196,2025-06-15,Hyderabad,VeggieCrush,Italian,605.04,143.83,461.21,75,4.3,0.2
+197,2025-06-15,Hyderabad,TandooriExpress,South Indian,785.84,189.28,596.56,48,3.1,0.2
+198,2025-06-27,Mumbai,PizzaCorner,Continental,701.72,35.1,666.62,23,3.1,0.15
+199,2025-07-05,Hyderabad,VeggieCrush,Continental,761.72,6.61,755.11,24,3.9,0.1
+200,2025-06-28,Pune,TandooriExpress,Italian,270.22,10.59,259.63,50,4.0,0.1
